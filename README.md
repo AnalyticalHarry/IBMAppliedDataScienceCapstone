@@ -1,16 +1,16 @@
 # AppliedDataScienceCapstone
 
-🚀 This Capstone represents the culmination of the IBM Data Science Professional Certificate specialization, integrating all the knowledge and skills acquired throughout the program.
+ This Capstone represents the culmination of the IBM Data Science Professional Certificate specialization, integrating all the knowledge and skills acquired throughout the program.
 
-📄 Project Background
+- Project Background
 SpaceX, a leading company in the commercial space industry, offers cost-effective Falcon 9 rocket launches compared to other providers. The ability to reuse the first stage contributes significantly to cost savings. This project aims to predict the reuse of the first stage by analyzing variables such as payload mass, launch site, number of flights, and orbits.
 
-📄 Questions to be answered
+- Questions to be answered
 
 How do payload mass, launch site, number of flights, and orbits influence the success of the first stage landing?
 Does the rate of successful landings show an upward trend over the years?
 Which algorithm is best suited for binary classification in this scenario?
-📄 Methodology
+- Methodology
 
 Data collection methodology:
 Utilized SpaceX REST API
